@@ -1,6 +1,11 @@
 # RTS-C4-EX01
 Technical test of Reus T-Systems BootCamp.
 
+-----
+(30/08/2022) Modificación posterior a la entrega del examen:
+### LOGIN: https://rts-c4-ex01-api.herokuapp.com/login
+-----
+
 ## CRUD:
 
 ### GET https://rts-c4-ex01-api.herokuapp.com/api/games
